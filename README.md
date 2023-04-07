@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [vercel](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n/hub)
+- Live Site URL: [Vercel](https://fylo-data-storage-component-ashy-eta.vercel.app)
 
 ## My process
 
@@ -91,8 +91,6 @@ The way I've coded it might work but I'm sure there are some improvements and in
 
 ### Useful resources
 
-<!-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range
-. -->
 - [MDN Input Range](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range) - This helped me understand some of the `input[type="range"]` attributes and how to work with them.
 - [Create a Triangle using HTML & CSS](https://www.coding-dude.com/wp/css/create-a-triangle/#:~:text=How%20To%20Create%20a%20Triangle%20Using%20CSS%20transform%20and%20overflow,fall%20outside%20our%20div%20square) - Amazing article on how to create triangles in HTML & CSS.
 
